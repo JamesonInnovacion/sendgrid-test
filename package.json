@@ -1,6 +1,6 @@
 {
-	"name": "n8n-nodes-friendgrid",
-	"version": "0.2.0",
+	"name": "n8n-nodes-friendgridtest",
+	"version": "0.1.0",
 	"description": "Este nodo hace alguna mierda muy interesante",
 	"license": "MIT",
 	"homepage": "",
