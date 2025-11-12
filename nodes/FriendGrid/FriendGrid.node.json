@@ -1,0 +1,20 @@
+{
+	"node": "n8n-nodes-base.FriendGrid",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Miscellaneous"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.n8n.io/integrations/creating-nodes/build/programmatic-style-node/#step-4-add-the-execute-method"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.n8n.io/integrations/creating-nodes/build/programmatic-style-node/#step-4-add-the-execute-method"
+			}
+		]
+	}
+}
